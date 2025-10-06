@@ -11,3 +11,7 @@ The Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS
 - Juliana Alves Pereira - Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)
 - Thelma Elita Colanzi - Universidade Estadual de Maringá (UEM)
 - Vinicius Cardoso Garcia - Universidade Federal de Pernambuco (UFPE)
+
+# Useful Links
+
+[Past SBCARS Keynotes](keynotes.md)
