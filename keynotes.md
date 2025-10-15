@@ -69,8 +69,10 @@ Jaejoon Lee
 
 ## 2008
 Richard Taylor
+
 Dirk Muthig
 
 ## 2007
 Nenad Medvidović
+
 Paul Clements
