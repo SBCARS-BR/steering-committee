@@ -1,5 +1,9 @@
 # Past SBCARS Keynotes
 
+## 2026
+Elisa Yumi Nakagawa
+Rick Kazman
+
 ## 2025
 Mathieu Acher
 
