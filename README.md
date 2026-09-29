@@ -9,7 +9,8 @@ The Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS
 - Carla Bezerra - Universidade Federal do Ceará (UFC)
 - Daniel Lucrédio - Universidade Federal de São Carlos (UFSCar)
 - Juliana Alves Pereira - Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio)
-- Thelma Elita Colanzi - Universidade Estadual de Maringá (UEM)
+- Larissa Rocha Soares Bastos - Universidade do Estado da Bahia (UNEB)
+- Matheus Henrique Esteves Paixão - Universidade Estadual do Ceará (UECE)
 - Vinicius Cardoso Garcia - Universidade Federal de Pernambuco (UFPE)
 
 # Useful Links
